@@ -9,7 +9,7 @@ A monotonic person😬 who spends time discovering interesting open source proje
 <br/><br/> 
 
 <!-- Social icons section -->
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aishika-nandi-500485249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -77,11 +77,15 @@ A monotonic person😬 who spends time discovering interesting open source proje
 <div align="center">
 
 ## 📊 Github stats
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=redical&background=000000)](https://github.com/aishikanandi)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=radical&background=000000)](https://github.com/aishikanandi)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
+## Most Used Languages
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishikanandi&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- last activity section -->
 
