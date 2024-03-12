@@ -3,11 +3,9 @@
 
 Hola Amigos! <br />
 I am <b>Aishika Nandi</b> pursuing B.Tech in CS from IIT Bhilai <br />
-I am a proud <strong>Indian 🇮🇳</strong><br />
-I love to learn new technologies for betterment of existing automation 🚀<br />
-Enjoy being a monotonic person 😬 <br/>
-I spend my time discovering interesting open source projects online 👨‍💻<br />
-<sup>Did I hear collaboration?</sup> Why not! Contact me for more info.
+An <strong>Indian 🇮🇳</strong><br /> developer who loves to learn new technologies for betterment of existing automation 🚀<br />
+A monotonic person😬 who spends time discovering interesting open source projects online 👨‍💻<br />
+<b>Did I hear collaboration?</b> Why not! Contact me for more info.
 <br/><br/> 
 
 <!-- Social icons section -->
