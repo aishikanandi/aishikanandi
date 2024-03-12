@@ -1,4 +1,4 @@
-![image](https://github.com/aishikanandi/aishikanandi/assets/104081816/d93aa01b-b8d8-4dab-ae3b-b4d4c1a0148a)<!-- Description about me -->
+<!-- Description about me -->
 <h1 align="center"> About me 👨‍💻 </h1>
 
 Hola Amigos! <br />
@@ -31,7 +31,7 @@ I spend my time discovering interesting open source projects online 👨‍💻<
 
 <h1 align="center"> Technologies I know: </h1>
 <p align="center">
-  <code><a href="https://cplusplus.com/"><img alt="C++" title="C++" src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" height="42"></a></code>
+  <code><a href="https://cplusplus.com/"><img alt="C++" title="C++" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://nodejs.org/en"><img alt="" title="NodeJs" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="42"></a></code>
   <code><a href="https://react.dev/"><img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" height="42"></a></code>
@@ -42,13 +42,12 @@ I spend my time discovering interesting open source projects online 👨‍💻<
   <code><a href="https://ui.shadcn.com/" target="_blank"><img alt="Shadcn UI" title="Shadcn UI" src="https://ui.shadcn.com/apple-touch-icon.png" height="42"></a></code>
   <code><a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img alt="Pydantic" title="Pydantic" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" height="42"></a></code>
   <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" title="FastAPI" src="https://cdn.try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" height="42"></a></code>
-  <code><a href="https://developers.google.com/apps-script" target="_blank"><img alt="Google Apps Script" title="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/800px-Google_Apps_Script.svg.png" height="42"></a></code>
+  <code><a href="https://developers.google.com/apps-script" target="_blank"><img alt="Google Apps Script" title="Google Apps Script" src="https://cdn-icons-png.flaticon.com/512/2965/2965300.png" height="42"></a></code>
   <code><a href="https://git-scm.com/" target="_blank"><img alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="42"></a></code>
-  <code><a href="https://github.com/" target="_blank"><img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="42"></a></code>
+  <code><a href="https://github.com/" target="_blank"><img alt="GitHub" title="GitHub" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" height="42"></a></code>
   <code><a href="https://www.docker.com/" target="_blank"><img alt="Docker" title="Docker" src="https://static-00.iconduck.com/assets.00/docker-icon-icon-1024x739-rh15l33m.png" height="42"></a></code>
   <code><a href="https://tailwindcss.com/"><img alt="tailwind" title="tailwind" src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" height="42"></a></code>
   <code><a href="https://www.typescriptlang.org/"><img alt="typescript" title="typescript" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="" height="42"></a></code>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
@@ -59,21 +58,10 @@ I spend my time discovering interesting open source projects online 👨‍💻<
 </p>
 <br>
 
-<h1 align="center"> Technologies I'm learning: </h1>
-<p align="center">
-  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-  <code><a href="https://reactjs.org/"><img alt="ReactJS" title="ReactJS" src="./assets/react.png" height="42"></a></code>
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
-  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
-</p>
-<br>
-
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
-  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
+  <code><a href="https://www.linux.org/" target="_blank"><img alt="Linux" title="Linux" src="https://assets.tryhackme.com/img/modules/linux-fundamentals.png" height="42"></a></code>
+  <code><a href="https://www.microsoft.com/en-us/windows" target="_blank"><img alt="Windows" title="Windows" src="https://media.wired.com/photos/592650d8cfe0d93c4742fbf9/master/pass/windowsxp.jpg" height="42"></a></code>
   <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
 </p>
@@ -92,30 +80,6 @@ I spend my time discovering interesting open source projects online 👨‍💻<
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<!-- Projects section -->
-
-## 📘 My top open source projects
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-  <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
-  </p>
-</p>
-
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
-<p align="left">
-  <a href="https://github.com/DavidsDvm?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 <!-- last activity section -->
 
 ## Activity Graph
@@ -127,7 +91,7 @@ I spend my time discovering interesting open source projects online 👨‍💻<
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Monday, March 11, 7:16 AM GMT-5</b>
+Last refresh: <b>Monday, March 12, 9:15 IST</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
