@@ -77,14 +77,16 @@ A monotonic person😬 who spends time discovering interesting open source proje
 <div align="center">
 
 ## 📊 Github stats
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=radical&background=000000)](https://github.com/aishikanandi)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=tokyonight&background=000000)](https://github.com/aishikanandi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ## Most Used Languages
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishikanandi&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishikanandi&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <!-- last activity section -->
