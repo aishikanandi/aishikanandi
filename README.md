@@ -1,6 +1,16 @@
+![image](https://github.com/aishikanandi/aishikanandi/assets/104081816/d93aa01b-b8d8-4dab-ae3b-b4d4c1a0148a)<!-- Description about me -->
+<h1 align="center"> About me 👨‍💻 </h1>
+
+Hola Amigos! <br />
+I am <b>Aishika Nandi</b> pursuing B.Tech in CS from IIT Bhilai <br />
+I am a proud <strong>Indian 🇮🇳</strong><br />
+I love to learn new technologies for betterment of existing automation 🚀<br />
+Enjoy being a monotonic person 😬 <br/>
+I spend my time discovering interesting open source projects online 👨‍💻<br />
+<sup>Did I hear collaboration?</sup> Why not! Contact me for more info.
+<br/><br/> 
 
 <!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
   <p align="center">
     <a href="https://www.quora.com/profile/AISHIKA-NANDI">
       <img src="https://img.shields.io/badge/Quora-7cebf5?&style=for-the-badge&logo=Quora&logoColor=black">
@@ -15,77 +25,41 @@
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
-</h1>
 
 <hr>
-
-<!-- Description about me -->
-<h2 align="center"> About me 👨‍💻 </h2>
-Hey there! <br />
-I am <b>Aishika Nandi</b> pursuing B.Tech in CS from IIT Bhilai <br />
-I am from <strong>India 🇮🇳</strong><br />
-I love to learn new technologies for betterment of existing automation. <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
-<br/><br/> 
-
-### 🧐 More About Me:
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <ul>
-        <li>
-          🔭 I’m currently studying at **SENA**
-        </li>
-        <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
-        </li>
-        <li>
-          🌱 I’m currently learning Django & NestJS; 
-        </li>
-        <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
-        </li>
-        <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
-        </li>
-        <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
-        </li>
-        <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
-        </li>
-    </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/text.gif" width="450vw"/>
-    </td>
-  </tr>
-</table>
-<br><br><br>
-
 <!-- languajes and skills section -->
 
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
+<h1 align="center"> Technologies I know: </h1>
 <p align="center">
+  <code><a href="https://cplusplus.com/"><img alt="C++" title="C++" src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" height="42"></a></code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://nodejs.org/en"><img alt="" title="NodeJs" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="42"></a></code>
+  <code><a href="https://react.dev/"><img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/120px-React_Logo_SVG.svg.png" height="42"></a></code>
+  <code><a href="https://www.figma.com/"><img alt="Figma" title="Figma" src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png" height="42"></a></code>
+  <code><a href="https://balsamiq.com/" target="_blank"><img alt="Balsamiq" title="Balsamiq" src="https://www.evernote.design/assets/images/balsamiq.jpg" height="42"></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" title="MongoDB" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" height="42"></a></code>
+  <code><a href="https://www.mysql.com/" target="_blank"><img alt="SQL" title="SQL" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/MySQL.component.complex-narrative-xl.ts=1689625460299.png/content/adobe-cms/us/en/products/instana/supported-technologies/mysql-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" height="42"></a></code>
+  <code><a href="https://ui.shadcn.com/" target="_blank"><img alt="Shadcn UI" title="Shadcn UI" src="https://ui.shadcn.com/apple-touch-icon.png" height="42"></a></code>
+  <code><a href="https://pydantic-docs.helpmanual.io/" target="_blank"><img alt="Pydantic" title="Pydantic" src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" height="42"></a></code>
+  <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" title="FastAPI" src="https://cdn.try.direct/files/8400033b-cf2e-4fc4-ac91-45cadee082ed.svg" height="42"></a></code>
+  <code><a href="https://developers.google.com/apps-script" target="_blank"><img alt="Google Apps Script" title="Google Apps Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/800px-Google_Apps_Script.svg.png" height="42"></a></code>
+  <code><a href="https://git-scm.com/" target="_blank"><img alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="42"></a></code>
+  <code><a href="https://github.com/" target="_blank"><img alt="GitHub" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="42"></a></code>
+  <code><a href="https://www.docker.com/" target="_blank"><img alt="Docker" title="Docker" src="https://static-00.iconduck.com/assets.00/docker-icon-icon-1024x739-rh15l33m.png" height="42"></a></code>
+  <code><a href="https://tailwindcss.com/"><img alt="tailwind" title="tailwind" src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" height="42"></a></code>
+  <code><a href="https://www.typescriptlang.org/"><img alt="typescript" title="typescript" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png" height="42"></a></code>
+  <code><a href=""><img alt="" title="" src="" height="42"></a></code>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
   <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
   <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="./assets/bash.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
-  <code><a href="https://vuejs.org/"><img alt="Vue" title="Vue" src="./assets/vue.png" height="42"></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
-  <code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="./assets/markdown.png" height="42"></a></code>
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
+<h1 align="center"> Technologies I'm learning: </h1>
 <p align="center">
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
   <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
