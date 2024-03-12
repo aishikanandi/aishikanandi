@@ -76,16 +76,12 @@ I spend my time discovering interesting open source projects online 👨‍💻<
 <br>
 
 <!-- GitHub stats section -->
+<div align="center">
 
 ## 📊 Github stats
-<h1>Aishika's GitHub stats</h1>
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        [![](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=redical&background=000000)](https://github.com/aishikanandi)
-    </div>
-    <div>
-        [![](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=redical&background=000000)](https://github.com/aishikanandi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
