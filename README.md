@@ -69,9 +69,9 @@ I spend my time discovering interesting open source projects online 👨‍💻<
 <!-- GitHub stats section -->
 
 ## 📊 Github stats
-
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=dark&background=000000)]
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-[![Aishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishikanandi)](https://github.com/anuraghazra/github-readme-stats)
+[![Aishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- last activity section -->
