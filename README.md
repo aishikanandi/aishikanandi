@@ -46,7 +46,6 @@ Currently working on the project [CampusHub](https://github.com/JaeAeich/CampusH
   <code><a href="https://www.typescriptlang.org/"><img alt="typescript" title="typescript" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png" height="42"></a></code>
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" title="Flask" src="./assets/flask.png" height="42"></a></code>
-  <code><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="./assets/fast-api.svg" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
@@ -67,7 +66,7 @@ Currently working on the project [CampusHub](https://github.com/JaeAeich/CampusH
 
 ## 📊 Github stats
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aishikanandi&theme=tokyonight&background=000000)](https://github.com/aishikanandi)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishikanandi&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats&hide=rank)
 
 </div>
 
