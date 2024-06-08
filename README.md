@@ -6,7 +6,7 @@ I am <b>Aishika Nandi</b> pursuing B.Tech in CS from IIT Bhilai. <br />
 An <strong>Indian 🇮🇳</strong> developer who loves to learn new technologies for betterment of existing automation 🚀<br />
 A monotonic person😬 who spends time discovering interesting open source projects online 👨‍💻<br />
 <b>Contributor at Google Summer of Code 2024 @ cBioPortal</b><br/>
-Currently working on a [project](https://github.com/cBioPortal/GSoC/issues/95) under cBioPortal and OncoKB using react, typescript, jest, puppeteer, OncoKB API, etc. 
+Currently working on a [project](https://github.com/cBioPortal/GSoC/issues/95) under cBioPortal and OncoKB using react, typescript, jest, puppeteer, OncoKB API,etc. 
 <br/><br/> 
 
 <!-- Social icons section -->
